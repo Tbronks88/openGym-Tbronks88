@@ -186,3 +186,5 @@ never feed the media to an AI tool.
 - Training-logic changes (progression, 1RM, session read-back) need a unit test in `src/lib`
   beside the code.
 - User-facing text: plain and human, no em dashes. CHANGELOG.md is written at release time.
+
+@ELITE-RULES.md
